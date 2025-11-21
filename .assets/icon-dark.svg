@@ -1,0 +1,186 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="132"><defs><style xmlns="http://www.w3.org/1999/xhtml" type="text/css">@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-LightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/RedactedScript-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/RedactedScript-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Jojoba';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Jojoba.ttf') format('truetype');
+}</style></defs><g><g><g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 2.5 2.5 C 52.79029591763392 2.2457664408069107 102.76574635338038 4.136279205260799 129.5 2.5 M 2.5 2.5 C 33.74719997281209 2.3813235677126796 63.812253192439684 2.287299237335101 129.5 2.5 M 129.5 2.5 C 129.52145420573652 2.1159651074558496 127.75170200131834 2.4073056373745203 129.5 2.5 M 129.5 2.5 C 131.2829849612899 2.9670664253644645 130.66341876806692 0.4873533579520881 129.5 2.5 M 129.5 2.5 C 131.17992338883693 39.19118642518298 128.6053142880183 71.76182848569007 129.5 129.5 M 129.5 2.5 C 130.63440232113936 51.59043619008735 130.27798672155478 100.31010586991907 129.5 129.5 M 129.5 129.5 C 131.24158268235624 129.43766001798213 128.2867280151695 127.64802024699748 129.5 129.5 M 129.5 129.5 C 128.44814423741772 130.17048439113424 128.85204444052653 127.43718865541742 129.5 129.5 M 129.5 129.5 C 78.08087639203295 129.91606647935697 26.964482828415925 131.2112156268675 2.5 129.5 M 129.5 129.5 C 87.84010055093094 130.04595023064874 46.670369528979066 129.04132523803972 2.5 129.5 M 2.5 129.5 C 0.8133404161781073 128.75522933341563 3.6751533057540655 131.3252220544964 2.5 129.5 M 2.5 129.5 C 3.9878614854998884 130.26176656512544 1.3338651699014008 129.20561631051822 2.5 129.5 M 2.5 129.5 C 1.7025131752807647 95.43955450272188 1.35345567968674 60.37538128066808 2.5 2.5 M 2.5 129.5 C 3.1303186143096537 81.8308286822401 2.6950932765658946 36.26955280862748 2.5 2.5 M 2.5 2.5 C 2.3284632470458746 2.2493981514126062 1.6981668379157782 1.211433032527566 2.5 2.5 M 2.5 2.5 C 2.021500108856708 1.431754622142762 3.227365453261882 1.3577944043092431 2.5 2.5 M 2.5 2.5 C 2.5 2.5 2.5 2.5 2.5 2.5 M 2.5 2.5 C 2.5 2.5 2.5 2.5 2.5 2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g></g><g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 102.5 82 C 102.2426176871732 71.5207582494244 102.12153296727688 62.50891803409904 102.5 50 M 102.5 82 C 102.60596063284203 70.62939508454875 102.66239098755642 59.48531175749376 102.5 50 M 102.5 50 C 102.33745699153815 46.397384423674765 100.16416743536716 45.16851395157414 98.5 43.08 M 102.5 50 C 101.54153532745849 46.662737634829924 100.12902310615642 44.51659861978392 98.5 43.08 M 98.5 43.08 C 89.5043141906336 38.353066633176056 83.24177116464824 32.82433298183605 70.5 27.08 M 98.5 43.08 C 88.79717373548075 37.796477096974854 79.53896131848916 32.32893583893776 70.5 27.08 M 70.5 27.08 C 68.73941436091454 25.216489744137196 65.74069869650512 26.622780245493317 62.5 27.08 M 70.5 27.08 C 67.8112145897282 24.685334808469904 63.86079910068757 26.689390536488183 62.5 27.08 M 62.5 27.08 C 52.46911592070013 32.65510320348665 40.21664563860744 39.827166105639186 34.5 43.08 M 62.5 27.08 C 54.25685887677595 31.700954677164553 45.69162404319271 36.88114529848099 34.5 43.08 M 34.5 43.08 C 31.844679829205816 43.912986306224646 30.09705898946549 47.41314749783439 30.5 50 M 34.5 43.08 C 30.981802744751295 44.873242602015544 30.428713111797602 48.089286591164516 30.5 50 M 30.5 50 C 31.189032824523746 61.63130314555019 30.665651084668934 72.18722596671432 30.5 82 M 30.5 50 C 30.146855751853437 60.830558033753185 30.943489487152547 71.97862797575071 30.5 82 M 30.5 82 C 31.127667464673774 85.62524138213533 33.006104823674505 88.04370224873287 34.5 88.92 M 30.5 82 C 30.179900445262223 85.9634473672549 32.84721253026041 88.05380685666327 34.5 88.92 M 34.5 88.92 C 44.96164227742702 94.11534422347322 55.819460824690765 100.01706401268021 62.5 104.92 M 34.5 88.92 C 44.476205845158546 94.03514407459646 54.017219741251324 100.26394032869487 62.5 104.92 M 62.5 104.92 C 64.32155597342162 105.88251899672005 67.5102312234977 106.01538821053956 70.5 104.92 M 62.5 104.92 C 64.07275774746185 106.14335369300362 67.36185552741416 105.6721625624251 70.5 104.92 M 70.5 104.92 C 76.22152411583812 100.56646523782985 84.11336553078145 96.99481338122861 98.5 88.92 M 70.5 104.92 C 78.76515916092322 99.72441639546305 87.1412874764763 95.37025270853192 98.5 88.92 M 98.5 88.92 C 100.74156257649189 87.59417912761432 103.28559785114203 85.81520546795267 102.5 82 M 98.5 88.92 C 101.81811048811538 86.43842110523705 101.6900996780635 84.32289279461304 102.5 82 M 102.5 82 C 102.5 82 102.5 82 102.5 82 M 102.5 82 C 102.5 82 102.5 82 102.5 82" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 48.5 34.84 C 54.12978332265094 37.8333052500803 59.70756953413412 42.245472117559984 66.5 45.239999999999995 M 48.5 34.84 C 54.96001597782969 38.15879455924966 61.25667268941551 41.713911095047365 66.5 45.239999999999995 M 66.5 45.239999999999995 C 72.31247792218252 41.52786349249072 76.34506377980486 38.6711554138828 84.5 34.84 M 66.5 45.239999999999995 C 71.5954553945735 41.6290118046198 77.32180228240787 39.40417751469649 84.5 34.84" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 48.5 97.16 C 48.29253354741056 90.23938654213026 48.17144882751424 84.78617461951077 48.5 76.4 M 48.5 97.16 C 48.63613605327662 89.6860697651729 48.692566407991016 82.43866111874208 48.5 76.4 M 48.5 76.4 C 44.0870898158513 72.54233261401765 37.8942875671424 69.68562453540974 30.5 66 M 48.5 76.4 C 42.76727336745709 72.85950885417871 37.66543822817504 70.63467456425539 30.5 66" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 102.5 66 C 96.73204145989195 68.89622541437858 90.91208580861614 73.30839228185826 84.5 76.4 M 102.5 66 C 96.47956326408683 69.33839533555322 90.29576726192981 72.89351187135094 84.5 76.4 M 84.5 76.4 C 85.08333551772814 81.46573953640089 84.00322732218486 87.45967294093967 84.5 97.16 M 84.5 76.4 C 84.16295535321626 82.19665343953669 84.47521122749242 89.34421225975082 84.5 97.16" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 31.58 45.84 C 42.61024294390622 51.98165139105563 53.54496783088614 59.496536876730815 66.5 66.03999999999999 M 31.58 45.84 C 43.93213828356099 52.54703876646143 56.09460777060595 59.49961187433359 66.5 66.03999999999999 M 66.5 66.03999999999999 C 77.15503401131835 59.6126851319829 85.99355227891635 53.97239917998481 101.42 45.84 M 66.5 66.03999999999999 C 76.6904906929033 59.44820641727876 87.50608313348238 54.275700353307094 101.42 45.84" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 66.38472689781338 105.97208434965461 C 66.08458457251042 94.3260993482694 66.78773481507748 81.32598741664737 66.60889320168644 66.38373860623688 M 66.420192792546 105.94628898816183 C 65.99563313775883 96.78713194798306 65.98443510883675 86.38375083630159 66.13319599581882 66.00391417043284" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g></g></g></g></svg>
